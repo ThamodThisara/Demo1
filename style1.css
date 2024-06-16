@@ -1,0 +1,53 @@
+#head{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-size: 80px;
+    margin-left: 200px;
+    margin-right: 200px ;
+    border-radius: 20px;
+}
+
+.para1{
+    background-color: blanchedalmond;
+    color: rgb(30, 100, 128);
+    padding: 40px;
+    margin-left: 550px;
+}
+
+.para2{
+    background-color:rgb(30, 100, 128);
+    color: blanchedalmond;
+    padding: 40px;
+    margin-right: 550px;
+}
+
+
+body{
+    background-image: url(https://img.freepik.com/free-photo/digital-art-moon-wallpaper_23-2150918951.jpg?size=626&ext=jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.box2{
+    position: relative;
+    top: 20px;
+    left: 70px;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+
+}
+
+.box1{
+    position: relative;
+    /* top: 20px;
+    left: 20px; */
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}

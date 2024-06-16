@@ -1,0 +1,43 @@
+/* Id selectors walata namata issarahin # danwa */
+
+#headline{
+    background-color: blanchedalmond;
+    color: brown;
+    text-align: center;
+}
+
+#headline1{
+    background-color: blue;
+    color: azure;
+    text-align: center;
+}
+
+
+/* class selectors walata namata issarahin . danwa */
+.odd {
+    background-color: lightgreen;
+    color: blue;
+    padding: 40px;
+    margin: 50px;
+}
+
+.btn-login{
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    font-size: large;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.btn-login:hover{
+    background-color: rgb(67, 10, 121);
+}
+
+.btn-login:active{
+    background-color: rgb(179, 5, 5);
+    border: 1px solid black;
+}
